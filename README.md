@@ -8,15 +8,15 @@ Stretch Coach is a FitBit app that assists with a stretch routine before a run o
 
 ![alt text](https://github.com/Radar3699/StretchCoach/blob/master/demo/P1.png)
 
-I created this because I found the default stopwatch super clunky for stretching. When your watch arm is busy you have to stop stretching every 10 seconds or so to free up that watch arm to check the time (sometimes requiring your other hand to wake it from sleep), and hope you check it around 60 seconds to switch. Even when your not-watch arm is being used (so you have your watch arm extended and are staring at the seonds ticking up) the screen still often turns off so you have to shake your wrist a bunch or stop stretching to use your other hand to press the wake up button. Additionally between stretches it requires a short press followed by a long press to reset between positions.
+I created this because I found the default stopwatch super clunky for stretching. When your watch arm is busy you have to stop stretching every 10 seconds or so to free up that watch arm to check the time (sometimes requiring your other hand to wake it from sleep), and hope you check it around 60 seconds to switch. Even when your not-watch arm is being used (so you have your watch arm extended and are staring at the seonds ticking up) the screen still often turns off so you have to shake your wrist a bunch or stop stretching to use your other hand to press the wake up button. Additionally between positions it requires a short press followed by a long press to reset.
 
 I couldn't find a better stopwatch app for my use case so created this to make stretching a little easier.
 
 ## Setting up
 
-1. Log in with your fitbit account at [FitBit studio](https://studio.fitbit.com/projects) and follow the [instructions](https://dev.fitbit.com/blog/2017-09-26-fitbit-sdk-preview-get-started/) to pair your device. 
+1. Log in with your FitBit credentials at [FitBit studio](https://studio.fitbit.com/projects) and follow the [instructions](https://dev.fitbit.com/blog/2017-09-26-fitbit-sdk-preview-get-started/) to pair your device. 
 
-2. Import the project and **add your routine** by modifying the list of positions at the top of app/index.js.
+2. Import this project and **add your routine** by modifying the list of positions at the top of app/index.js.
 
 3. Hit the build button. 
 
