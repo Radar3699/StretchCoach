@@ -1,15 +1,14 @@
 # Stretch Coach
 
-![alt text](https://github.com/Radar3699/StretchCoach/blob/master/demo/P1.png)
-
 Stretch Coach is a FitBit app that assists with a stretch routine before a run or workout. The key features are that it will:
 
 * Buzz every X seconds where X is a fixed settable interval
 * Keep the screen on indefinitely
 * List a set routine
 
-I created this because I wasn't happy with the default stopwatch app for timing stretches. When your watch arm is busy you have to set the timer going with a long press, and have to stop stretching every 10 seconds or so to free up your watch arm and sometime wake the watch up by pressing the button with your other hand, and hope you check it around 60 seconds. Even when your not-watch arm is being used (so you have your watch arm extended and are watching the seonds tick up) the screen still often turns off so you have to shake your wrist a bunch or stop stretching to use your other hand to press the wake up button. 
+![alt text](https://github.com/Radar3699/StretchCoach/blob/master/demo/P1.png)
 
+I created this because I found the default stopwatch super clunky for stretching. When your watch arm is busy you have to stop stretching every 10 seconds or so to free up that watch arm to check the time (sometimes requiring your other hand to wake it from sleep), and hope you check it around 60 seconds to switch. Even when your not-watch arm is being used (so you have your watch arm extended and are staring at the seonds ticking up) the screen still often turns off so you have to shake your wrist a bunch or stop stretching to use your other hand to press the wake up button. Additionally between stretches it requires a short press followed by a long press to reset between positions.
 
 I couldn't find a better stopwatch app for my use case so created this to make stretching a little easier.
 
