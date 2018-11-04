@@ -1,3 +1,12 @@
+<!--
+index.gui
+Defines the veiws in the app
+Must not be renamed or will not compile
+
+Created by Duncan Stothers in 2018 at Harvard Univerisity
+Licensed by MIT License
+-->
+
 <svg class="background">
   <image href="background.png" />
   <text id="counter"></text>
