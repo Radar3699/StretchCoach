@@ -1,0 +1,64 @@
+.background {
+  viewport-fill: black;
+}
+
+#counter {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+80;
+  y: 85;
+  fill: white;
+}
+
+#interval {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-80;
+  y: 85;
+  fill: white;
+}
+
+#stretch {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+80;
+  y: 185;
+  fill: white;
+}
+
+#counttitle {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+80;
+  y: 30;
+  fill: lightskyblue;
+}
+
+#intervaltitle {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-80;
+  y: 30;
+  fill: lightgreen;
+}
+
+#stretchtitle {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+80;
+  y: 130;
+  fill: lemonchiffon;
+}
+

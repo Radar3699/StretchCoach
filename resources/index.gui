@@ -1,0 +1,11 @@
+<svg class="background">
+  <image href="background.png" />
+  <text id="counter"></text>
+  <text id="interval"></text>
+  <text id="stretch"></text>
+  <text id="counttitle">countdown</text>
+  <text id="intervaltitle">interval</text>
+  <text id="stretchtitle">stretch</text>
+</svg>
+
+
