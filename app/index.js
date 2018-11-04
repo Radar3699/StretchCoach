@@ -2,6 +2,7 @@
 index.js
 The core controller for StretchCoach
 Must not be renamed or will not compile
+Change stretch list variable to update stretches
 
 Created by Duncan Stothers in 2018 at Harvard University
 Licensed by MIT License
